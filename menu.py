@@ -2,7 +2,7 @@
 import csv
 import sys
 
-print "----------------MENÚ---------------"
+print "----------------MENU---------------"
 print "1. INSERTAR"
 print "2. LEER"
 print "3. SALIR"
